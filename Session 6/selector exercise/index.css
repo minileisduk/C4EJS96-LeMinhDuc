@@ -1,0 +1,32 @@
+.intro{
+    color: red;
+}
+
+#student{
+    background-color: #00FF00
+}
+
+.ha{
+    font-size: 24px-large ;
+}
+
+div{
+    font-size: 3em;
+    background: wheat
+  }
+
+#div2{
+    color: blue;
+}
+
+[target="_blank"]{
+    color: yellow;
+}
+
+ul.il{
+    color: blanchedalmond;
+}
+
+div > span{
+    font-size: 18px;
+}
